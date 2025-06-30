@@ -60,8 +60,7 @@ Strategies for integrating key influencers to enhance product pricing and custom
 
 [<img src="Adv_ss/Screenshot 2025-06-30 080327.png" width="1000"/>]&nbsp;
 
-[<img src="./Dash/2.png" width="1000"/>]&nbsp;
+[<img src="Adv_ss/Screenshot 2025-06-30 080427.png" width="1000"/>]&nbsp;
 
-[<img src="./Dash/3.png" width="1000"/>]&nbsp;
+[<img src="Adv_ss/Screenshot 2025-06-30 080626.png" width="1000"/>]&nbsp;
 
-[<img src="./Dash/4.png" width="1000"/>]&nbsp;
