@@ -1,60 +1,45 @@
-# Adventure-_works
-This is an exciting project I had prepared to push my limits in Power BI. 
+# 🚴 AdventureWorks Sales Dashboard
+
+This repository contains an interactive Power BI dashboard that visualizes and analyzes the sales performance of the fictional AdventureWorks company. The dashboard offers a business-friendly interface to monitor trends in revenue, profit, product performance, and customer behavior over time.
 
 ## Project Overview
-This Power BI project features an interactive dashboard built using the AdventureWorks dataset, which simulates a global retail business scenario. The dashboard is designed to extract actionable insights and support strategic decision-making across different sales dimensions.
-## Key Features of the Dashboard
 
-Revenue and Profit Analysis:
+The **AdventureWorks Sales Dashboard** is built to help stakeholders and analysts:
 
-Total revenue: $24.9M
-Total profit: $10.5M
-Monthly trends with year-over-year growth rates and profit margin visualization.
-Order Performance:
+- Understand sales trends across different years and quarters
 
-Total orders: 25.2K
-Monthly order tracking with a comparison to targets.
-Breakdown of orders by category (Accessories, Bikes, Clothing).
-Returns Analysis:
+- Evaluate product-wise performance and return rates
 
-Return rate: 2.2%
-Identification of the most returned product types, highlighting areas for quality improvements.
-Top Products:
+- Analyze the distribution of orders across product categories
 
-Top 10 products by orders, revenue, and return rate.
-Analyse best-selling products like the "Water Bottle - 30 oz." and its profitability.
-Customer Insights:
+- Quickly access KPIs for high-level business decisions
 
-17.4K unique customers with an average revenue per customer of $1,431.
-Orders are segmented by customer income level and occupation.
-Highlight the top customers driving revenue.
-Geographical Analysis:
+It is ideal for **executives, sales managers, and business analysts** seeking to draw insights from sales data and identify growth opportunities.
 
-Revenue and orders are distributed across major regions (e.g., North America, Europe, Pacific).
-Heatmaps showing regional performance.
-Influencer Analysis:
+## 📊 Key Metrics:-
 
-Factors influencing key metrics like homeownership and average retail price.
-Key customer behaviour drivers include income levels, education, and marital status.
-Skills and Tools Demonstrated
-Data Analysis:
+The dashboard features the following KPIs:
 
-Explored data to uncover trends, patterns, and anomalies.
-Focused on identifying actionable insights to improve business performance.
-Data Visualization:
+- **Total Revenue**   -	$24.91M
+- **Total Profit**	 - $10.46M
+- **Total Orders**	 - 25,000
+- **Return Rate**	    - 2.17%
+  
+## 🔍 Data Insights:-
 
-Designed interactive charts and KPIs for revenue, profit, and order trends.
-Developed user-friendly visuals to compare actual performance against targets.
-Business Intelligence:
+Here are some of the main insights discovered through this dashboard:
 
-Used advanced Power BI features like filters, slicers, and drill-through pages.
-Enabled cross-regional comparisons and customer segmentation.
+- 📈**Revenue Growth:** Consistent increase in total revenue from Jan 2020 through early 2022, with noticeable spikes in early 2021 and 2022.
+ 
+- 🚲 **Top-Selling Products:**
+Mountain-200 Black (46 & 42) and Road-250 Red are top contributors to revenue.
+Some products have return rates exceeding 3–4%, indicating potential quality or customer satisfaction issues.
 
+- 🧾 **Category-wise Orders:**
+Accessories account for the highest order volume, followed by Bikes and Clothing.
 
-## Key Learnings
-How to structure a business intelligence report for effective decision-making.
-Techniques to highlight performance gaps and opportunities using data storytelling.
-Strategies for integrating key influencers to enhance product pricing and customer engagement.
+- 📦 **Return Behavior:**
+Return rates vary significantly by product, with the highest reaching 4.47%.
 
 ## Sample Dashboards
 
